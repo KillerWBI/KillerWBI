@@ -39,6 +39,6 @@ Team & coursework projects (React / Next.js / Node.js bootcamp) — where the fu
 
 ### 📫 Contact
 
-**Email** — [topchannel1914@gmail.com](mailto:topchannel1914@gmail.com) &nbsp;·&nbsp; **GitHub** — [@KillerWBI](https://github.com/KillerWBI)
+**Email** — [topchannel1914@gmail.com](mailto:topchannel1914@gmail.com) &nbsp;·&nbsp; **Telegram** — [@P_r_o_k_u_r_o_r_A](https://t.me/P_r_o_k_u_r_o_r_A) &nbsp;·&nbsp; **Phone** — [+48 694 823 979](tel:+48694823979) &nbsp;·&nbsp; **GitHub** — [@KillerWBI](https://github.com/KillerWBI)
 
 *Open to freelance work and paid feature / maintenance work on existing projects.*
