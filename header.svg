@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="312" viewBox="0 0 920 312">
+  <defs>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f6e2a0"/>
+      <stop offset="55%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#9c7a1f"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="919" height="311" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="919" height="33" rx="10" fill="#161b22"/>
+  <rect x="0.5" y="24" width="919" height="10" fill="#161b22"/>
+  <circle cx="17" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="35" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="53" cy="17" r="6" fill="#27c93f"/>
+  <text x="460" y="21" text-anchor="middle" font-family="monospace" font-size="13" fill="#8b949e">artem@saas-dev — whoami</text>
+  <line x1="0" y1="34" x2="920" y2="34" stroke="#30363d"/>
+  <rect x="0" y="34" width="6" height="278" fill="url(#goldGrad)"/>
+
+  <g font-family="monospace" font-size="15">
+    <text x="46" y="70"><tspan fill="#6e7681">~$ </tspan><tspan fill="#4ec9b0">whoami</tspan></text>
+    <line x1="46" y1="82" x2="874" y2="82" stroke="#30363d"/>
+
+    <text x="46" y="112"><tspan fill="#569cd6">Name</tspan><tspan fill="#ce9178">          Artem Proskurovkyi</tspan></text>
+    <text x="46" y="134"><tspan fill="#569cd6">Role</tspan><tspan fill="#ce9178">          Full-Stack Web Developer</tspan></text>
+    <text x="46" y="156"><tspan fill="#569cd6">Focus</tspan><tspan fill="#ce9178">         Production SaaS — from database schema to deployed UI</tspan></text>
+    <text x="46" y="178"><tspan fill="#569cd6">Experience</tspan><tspan fill="#ce9178">    3 years</tspan></text>
+    <text x="46" y="200"><tspan fill="#569cd6">Modes</tspan><tspan fill="#ce9178">         Own products</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#ce9178">Freelance</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#ce9178">Custom development</tspan></text>
+    <text x="46" y="222"><tspan fill="#569cd6">Based in</tspan><tspan fill="#ce9178">      Poznań, Poland</tspan></text>
+
+    <line x1="46" y1="240" x2="874" y2="240" stroke="#30363d"/>
+    <text x="46" y="270"><tspan fill="#6e7681"># </tspan><tspan fill="#b5cea8">open to freelance &amp; contract work</tspan><tspan fill="#6e7681">  →  </tspan><tspan fill="#ce9178">topchannel1914@gmail.com</tspan></text>
+  </g>
+</svg>
