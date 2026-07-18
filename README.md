@@ -1,8 +1,9 @@
-![](./header.svg)
+<img src="./header.png" width="900" alt="whoami — Artem Proskurovkyi, Full-Stack Web Developer">
 
 ### 🧰 Tech stack
 
-![](./skills.svg)
+<img src="./skills.png" width="900" alt="Tech stack">
+
 
 ### About
 
@@ -14,7 +15,8 @@ My focus is shipping **SaaS products solo**: I own the whole lifecycle — archi
 
 ### 🚀 Flagship project — LinguaFlow
 
-![](./project.svg)
+<img src="./project.png" width="900" alt="LinguaFlow — flagship SaaS project">
+
 
 **Highlights**
 - ✅ Full multi-tenant SaaS — isolated workspace per teacher, strict per-account data ownership
